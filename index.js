@@ -1,3 +1,3 @@
-import print from "./src/index.js"
+import print from './src/index';
 
 print();
